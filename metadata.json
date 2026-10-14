@@ -1,0 +1,6 @@
+{
+  "name": "CampusFix — Smart Campus Complaint Management System",
+  "description": "Centralized platform for university students and administrators to report, track, resolve, and analyze campus issues with integrated AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
